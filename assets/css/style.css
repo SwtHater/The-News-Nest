@@ -314,5 +314,33 @@ div{
     .single_left_coloum{
         margin-left:3px
     }
+    
+    .test{
+        float: left;
     }
     
+    .box1{
+        background-color: aqua;
+        margin: 0,100px,0,0;
+        width: 50%;
+        
+    }
+
+    .box2{
+        background-color: #00cf5d;
+        width: 50%;
+        height: 700px;
+    }
+
+    .bb li {
+        font-weight: 400;
+        color: #f8f3f3;
+    }
+
+    .na li{
+       margin-top: 10px;
+       background-color: #f8f3f3;
+        padding: 40px
+    }
+
+
